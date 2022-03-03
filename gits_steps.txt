@@ -1,0 +1,13 @@
+//create
+git init
+git add -A
+git commit -m "comment"
+git branch -M main
+git remote add origin http://github.com/shashiproctor/nse.git
+git push -u origin main
+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
+
+
+
+// tips
+alt+ctrl+d - minimize all windows
