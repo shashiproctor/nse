@@ -7,6 +7,18 @@ git remote add origin http://github.com/shashiproctor/nse.git
 git push -u origin main
 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
 
+//delete file or folder
+git rm --cached file1.txt
+git commit -m "remove file1.txt"
+And to push changes to remote repo
+
+git push origin branch_name
+
+//git branch
+git branch <new branch>
+git branch -d <branch name>
+git checkout <branch name>
+
 
 
 // tips
